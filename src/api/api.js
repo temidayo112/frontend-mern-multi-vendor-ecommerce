@@ -1,6 +1,6 @@
 import axios from "axios";
 const local = 'http://localhost:5000'
-const production = 'https://backend-mern-vendor-ecommerce-00xf.onrender.com'
+const production = 'https://backend-apiall-multi-vendor-ecommerce-uz1t.onrender.com'
 
 let api_url = ''
 let mode = 'pro'
